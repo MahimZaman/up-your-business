@@ -1,0 +1,1 @@
+cow;legs,ears,horns;money;5000
